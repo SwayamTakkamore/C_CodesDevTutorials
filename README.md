@@ -1,2 +1,2 @@
 # C_CodesDevTutorials
-Some C Language Learning Codes Made at Pallotti
+Some C Language Learning Codes coded at Pallotti
