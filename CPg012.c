@@ -4,7 +4,7 @@
 void main()
 {
     int d1, d2, d3, num, ori, rev;
-    printf("\nenter any 3 digit number: ");
+    printf("\nEnter any 3 digit number : ");
     scanf("%d", &num);
     ori=num;
     d1=num%10;
@@ -13,5 +13,5 @@ void main()
     num=num/10;
     d3=num%10;
     rev=100*d1+10*d2+d3;
-    printf("\nreverse of number %d is %d", ori, rev);
+    printf("\nReverse of the Number '%d' is %d", ori, rev);
 }
