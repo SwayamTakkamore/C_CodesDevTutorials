@@ -1,4 +1,4 @@
-// a program to reverse 3 digit number entered by user
+// a program to reverse 3 digit number entered by the user
 
 #include<stdio.h>
 void main()
